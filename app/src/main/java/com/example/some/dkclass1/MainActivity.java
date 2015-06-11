@@ -1,7 +1,7 @@
 package com.example.some.dkclass1;
 
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.app.AlertDialog;
 import android.view.MenuItem;
@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Toast;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
     public void Launch(View v) {
        Toast toast = Toast.makeText(this, "Thank you for Joining this program.", Toast.LENGTH_LONG);
