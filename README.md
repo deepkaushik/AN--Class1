@@ -1,7 +1,9 @@
 # May30: Class1
 App showing use of:
 
-1. Linear Layout
-2. Relative Layout
-3. Insert Image in asset folder
-4. Inset clock.
+1. Vertical Linear Layout
+2. Horizontal Linear Layout
+3. Insert Image through drawable
+4. Insert clock.
+5. Display dialog
+6. Display toast.
