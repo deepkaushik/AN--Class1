@@ -1,5 +1,5 @@
 # May30: Class1
-App showing use of:
+App showing use of: 
 
 1. Vertical Linear Layout
 2. Horizontal Linear Layout
